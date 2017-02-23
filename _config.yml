@@ -2,6 +2,9 @@
 title: Il Caffe Delle Mamme
 timezone: UTC
 collections:
+  link-utili:
+    title: Link utili
+    output: true
   posts:
     title: Posts
     output: true
