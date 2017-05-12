@@ -1,5 +1,5 @@
 ---
-title: Quando i brutti voti servono
+title: La scuola per far fiorire la propria identità
 date: 2017-05-12 07:38:00 Z
 ---
 
