@@ -1,0 +1,16 @@
+- name: About
+  url:  "about"
+  class: color-1
+
+- name: Events
+  # url:  "events"
+  url: "https://www.facebook.com/5loaves2fish.blog"
+  class: color-2
+
+- name: Blog
+  url:  ""
+  class: color-3
+
+- name: Donations
+  url:  "donations"
+  class: color-4
