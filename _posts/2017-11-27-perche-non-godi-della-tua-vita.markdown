@@ -4,6 +4,8 @@ date: 2017-11-27 09:37:00 Z
 ---
 
 I figli sono la nostra occasione per diventare persone migliori. Per voler bene ai miei figli e dare quell'amore di cui hanno bisogno, mi sono sentita spinta a studiare scienze dell'educazione, a mettermi in gioco. Allo stesso tempo i nostri figli sono lo specchio di quello che ricevono da noi e spesso anche esempio a cui guardare.
+
+
 Dice il vangelo:
 
 > In verità vi dico: se non vi convertirete e non diventerete come i bambini, non entrerete nel regno dei cieli <cite>Mt 18,3</cite>
