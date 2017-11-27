@@ -16,7 +16,7 @@ defaults:
     path: ''
   values:
     layout: post
-permalink: title/
+permalink: ":title/"
 localization:
   read-more: Leggi
   see-all-posts: Tutti i post
