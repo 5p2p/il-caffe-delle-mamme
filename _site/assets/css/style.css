@@ -106,7 +106,7 @@ em {
   font-style: italic; }
 
 small {
-  font-size: 0.71006rem; }
+  font-size: 0.7100591716rem; }
 
 a {
   color: #303030;
@@ -137,20 +137,20 @@ a.no-decoration {
   border: 0px; }
 .index .title h2 {
   font-size: 1.56rem;
-  padding: 0.71006rem 0 0 0; }
+  padding: 0.7100591716rem 0 0 0; }
 .index .author {
   font-size: 1.2rem;
-  padding: 0.71006rem 0 0 0; }
+  padding: 0.7100591716rem 0 0 0; }
 .index .summary h3 {
   font-size: 1.56rem;
-  padding: 0.71006rem 0 0 0; }
+  padding: 0.7100591716rem 0 0 0; }
 
 blockquote p {
   font-weight: bold;
-  margin: 0.71006rem 0;
+  margin: 0.7100591716rem 0;
   padding-left: 1.2rem;
   font-size: 1.56rem;
-  border-left: 0.71006rem solid #D1D5D8; }
+  border-left: 0.7100591716rem solid #D1D5D8; }
 blockquote cite {
   font-size: 1.2rem;
   color: #D1D5D8; }
@@ -159,7 +159,7 @@ blockquote cite:before {
   padding-right: 0.2rem; }
 
 p {
-  padding: 0.71006rem 0rem;
+  padding: 0.7100591716rem 0rem;
   line-height: 2.028;
   text-align: left; }
 
@@ -192,7 +192,7 @@ body header, body header img, body main, body main figure img, body main article
 body header h2 {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  margin-top: 0.71006rem; }
+  margin-top: 0.7100591716rem; }
 
 .hidden {
   visibility: hidden;
@@ -210,15 +210,15 @@ body {
   background: white;
   color: #0a98a8; }
   body header h2 {
-    font-size: 0.92308rem;
+    font-size: 0.9230769231rem;
     text-align: center; }
   body header .logo-image {
-    width: 4.45552rem; }
+    width: 4.455516rem; }
   body header .main-header-title {
     width: 100%; }
   @media (min-width: 600px) {
     body header .logo-image {
-      width: 6.16918rem; }
+      width: 6.169176rem; }
     body header .main-header-title {
       max-width: 1024px; }
     body header h2 {
@@ -237,8 +237,8 @@ body {
           margin-top: 3.42732rem;
           font-size: 3.42732rem; } }
     body main header .author {
-      padding-top: 0.71006rem;
-      font-size: 0.92308rem; }
+      padding-top: 0.7100591716rem;
+      font-size: 0.9230769231rem; }
       body main header .author a {
         border: 0px;
         color: #3498DB; }
@@ -270,7 +270,7 @@ body {
     body main article ul li {
       position: relative;
       border-radius: 10px;
-      margin: 0.92308rem 0;
+      margin: 0.9230769231rem 0;
       padding: 0 1.2rem;
       line-height: 1.6; }
     body main article ul li:nth-child(even) {
@@ -305,7 +305,7 @@ body {
           body footer nav.footer-menu a {
             font-size: 2.028rem; } }
     body footer .footer-script-note {
-      font-size: 0.71006rem;
+      font-size: 0.7100591716rem;
       text-align: center;
       line-height: 1.5; }
       body footer .footer-script-note a {
@@ -340,11 +340,11 @@ body {
         padding-top: 1.56rem; } }
 
 .details {
-  margin-top: 0.71006rem;
+  margin-top: 0.7100591716rem;
   display: inline-block;
   font-size: 1.2rem; }
   .details.small {
-    font-size: 0.92308rem; }
+    font-size: 0.9230769231rem; }
   .details a {
     color: #3498DB;
     border: 0px; }
@@ -360,7 +360,7 @@ body {
   line-height: 1.4; }
   .summary.small {
     font-size: 1.2rem;
-    margin-top: 0.71006rem; }
+    margin-top: 0.7100591716rem; }
   @media (min-width: 600px) {
     .summary {
       font-size: 2.028rem;
@@ -399,7 +399,7 @@ body {
     font-size: 5.14098rem; }
     @media (min-width: 600px) {
       .huge.very {
-        font-size: 7.5401rem; } }
+        font-size: 7.540104rem; } }
 
 .videoWrapper {
   position: relative;
@@ -460,7 +460,7 @@ input {
   font-size: 1.2rem;
   border: 0px;
   padding-top: 1.2rem;
-  padding-bottom: 0.71006rem;
+  padding-bottom: 0.7100591716rem;
   width: 100%;
   border-bottom: 2px solid #D1D5D8;
   outline: none;
@@ -474,8 +474,8 @@ input {
   text-align: center;
   width: 6rem;
   font-size: 1.2rem;
-  margin: 1.2rem 0.71006rem 0 0;
-  padding: 0.71006rem 0;
+  margin: 1.2rem 0.7100591716rem 0 0;
+  padding: 0.7100591716rem 0;
   border-radius: 4px;
   background-color: white;
   box-shadow: none;
@@ -523,7 +523,7 @@ input {
   transition: all .25s ease; }
 
 .alert.box {
-  font-size: 0.92308rem;
+  font-size: 0.9230769231rem;
   background-color: #e74c3c;
   color: #F5B7B1; }
 
@@ -542,7 +542,7 @@ input {
   display: none; }
 
 .footnote {
-  font-size: 0.71006rem; }
+  font-size: 0.7100591716rem; }
 
 .center {
   text-align: center; }
